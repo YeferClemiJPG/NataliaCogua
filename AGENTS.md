@@ -7,3 +7,5 @@
 - Logo y fotografías institucionales compartidos; ningún retrato de Alfredo o Claudia.
 - index.html y public/contacto.vcf son generados. npm run verify y npm run export:preview antes de publicar.
 - GitHub Pages en main. No afirmar despliegue sin comprobarlo.
+
+- Ilustración de portada personalizada el 7/10/2026: Instrumentación quirúrgica en public/assets/natalia-instrumentacion-illustration.png. Mantener el estilo común azul marino, cristal, marfil y oro. No restaurar el pie de Claudia en este perfil. Prompt y procedencia en docs/ILUSTRACION_PERFIL.md.
